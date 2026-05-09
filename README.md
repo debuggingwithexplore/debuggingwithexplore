@@ -1,7 +1,7 @@
 # Hi 👋, I'm debuggingwithexplore
 
 # 💫 About Me:
-Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science Engineering student focused on building scalable and efficient software solutions. I have a strong foundation in Data Structures & Algorithms and Object-Oriented Programming, with hands-on experience in full stack development.<br><br>Tech Stack<br>Languages: Java, JavaScript, Python, C<br>Backend: Spring Boot, Node.js, Express.js, Django.<br>Frontend: React, HTML5, CSS3<br>Databases: MySQL, PostgreSQL, MongoDB<br>Tools: Git, GitHub<br><br>What I Do<br>• Build RESTful APIs and backend systems<br>• Develop responsive and user-friendly web applications<br>• Solve DSA problems to improve problem-solving skills<br>• Work on real-world projects with clean and maintainable code<br><br>Projects<br>LifeSyncDaily OS – Productivity Management System<br>Full-stack application with JWT authentication, REST APIs, and MongoDB integration<br><br>Current Focus<br>• Advanced DSA (Java)<br>• System Design fundamentals<br>• Backend development with Spring Boot<br>• Building scalable real-world projects<br><br>Open to internships and entry-level software developer opportunities<br>
+Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science Engineering student focused on building scalable and efficient software solutions. I have a strong foundation in Data Structures & Algorithms and Object-Oriented Programming, with hands-on experience in full stack development.<br><br>Current Focus<br>• Advanced DSA (Java)<br>• System Design fundamentals<br>• Backend development with Spring Boot<br>• Building scalable real-world projects<br><br>Open to internships and entry-level software developer opportunities<br>
 
 
 ## 🌐 Socials:
