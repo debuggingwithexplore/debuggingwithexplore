@@ -1,7 +1,7 @@
 # Hi 👋, I'm debuggingwithexplore
 
 # 💫 About Me:
-Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science Engineering student focused on building scalable and efficient software solutions. I have a strong foundation in Data Structures & Algorithms and Object-Oriented Programming, with hands-on experience in full stack development.<br><br>Current Focus<br>• Advanced DSA (Java)<br>• System Design fundamentals<br>• Backend development with Spring Boot<br>• Building scalable real-world projects<br><br>Open to internships and entry-level software developer opportunities<br>
+Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science Engineering student focused on building scalable and efficient software solutions. I have a strong foundation in Data Structures & Algorithms and Object-Oriented Programming, with hands-on experience in full stack development.<br><br>Current Focus<br>• Advanced DSA (Java)<br>• System Design fundamentals<br>• Backend development with Spring Boot<br>• Building scalable real-world projects<br><br>
 
 
 ## 🌐 Socials:
