@@ -29,6 +29,5 @@ Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science 
 ![](https://github-contributor-stats.vercel.app/api?username=debuggingwithexplore&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=debuggingwithexplore&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debuggingwithexplore&show_icons=true&theme=tokyonight)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
