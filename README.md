@@ -9,8 +9,7 @@ Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science 
 <img src="https://github-readme-stats.vercel.app/api?username=debuggingwithexplore&show_icons=true&theme=radical" />
 <img src="https://streak-stats.demolab.com?user=debuggingwithexplore&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuggingwithexplore&layout=compact&theme=radical" />
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Snake Game Repo View -->
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
