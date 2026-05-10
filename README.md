@@ -3,7 +3,6 @@
 # 💫 About Me:
 Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science Engineering student focused on building scalable and efficient software solutions. I have a strong foundation in Data Structures & Algorithms and Object-Oriented Programming, with hands-on experience in full stack development.<br><br>Current Focus<br>• Advanced DSA (Java)<br>• System Design fundamentals<br>• Backend development with Spring Boot<br>• Building scalable real-world projects<br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/suvadeep-maity-383aa429a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@maity25669) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvadeepmaity2004@gmail.com) 
 
