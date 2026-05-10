@@ -16,9 +16,6 @@ Software Developer | Java • DSA • Full Stack<br><br>I am a Computer Science 
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=debuggingwithexplore&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
